@@ -40,19 +40,13 @@ export class ListEmployeesComponent implements OnInit{
     ngOnInit(): void {
         this.getEmployees();
         this.subscription = this.sharedService.notifyObservable$.subscribe((res) => {
-
-        if (res.hasOwnProperty('option') && res.option === 'refresh') {
-
-            this.getEmployees();
-
-        } else if (res.hasOwnProperty('option') && res.option === 'refreshSelected') {
-
-            this.selectedEmployee = null;
-
-        } else if (res.hasOwnProperty('option') && res.option === 'refreshCancel') {
-
-            this.selectedEmployee = null;
-        }
+            if (res.hasOwnProperty('option') && res.option === 'refresh') {
+                this.getEmployees();
+            } else if (res.hasOwnProperty('option') && res.option === 'refreshSelected') {
+                this.selectedEmployee = null;
+            } else if (res.hasOwnProperty('option') && res.option === 'refreshCancel') {
+                this.selectedEmployee = null;
+            }
         });
 
     }
