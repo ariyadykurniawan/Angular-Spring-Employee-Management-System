@@ -1,0 +1,72 @@
+<div *ngIf="isShow">
+    <form [formGroup]="form" (ngSubmit)="onSubmit(form.value)">
+        <div class="form-input">
+            <div class="left-form">
+                <md-input-container>
+                    <input name="firstName" id="firstName" mdInput placeholder="First Name" formControlName="firstName">
+                </md-input-container>
+                <md-input-container>
+                    <input name="lastName" id="lastName" mdInput placeholder="Last Name" formControlName="lastName">
+                </md-input-container>
+                <md-select placeholder="Gender" formControlName="gender">
+                    <md-option *ngFor="let gender of lookupLists.genders" [value]="gender.value" >
+                        {{ gender.viewValue }}
+                    </md-option>
+                </md-select>
+                <md2-datepicker class="date-picker" openOnFocus="true" type="date" placeholder="Date Of Birth" formControlName="dob"></md2-datepicker>
+                <md-input-container>
+                    <input name="nationality" id="nationality" mdInput placeholder="Nationality" formControlName="nationality">
+                </md-input-container>
+                <md-select placeholder="Gender" formControlName="maritalStatus">
+                    <md-option *ngFor="let maritalStatus of lookupLists.maritalStatuss" [value]="maritalStatus.value" >
+                        {{ maritalStatus.viewValue }}
+                    </md-option>
+                </md-select>
+                <md-input-container>
+                    <input name="phoneNumber" id="phoneNumber" mdInput placeholder="Phone Number" formControlName="phoneNumber">
+                </md-input-container>
+                <md-select placeholder="Office Location" name="officeLocation" id="officeLocation" formControlName="officeLocation">
+                    <md-option *ngFor="let  ofL of ofLs" [value]="ofL?.id" (click)="onChange(ofL)">
+                        {{ ofL?.locationName }}
+                    </md-option>
+                </md-select>
+            </div>
+            <div class="right-form">
+                <md-input-container>
+                    <input name="subDivision" id="subDivision" mdInput placeholder="Sub Division" formControlName="subDivision">
+                </md-input-container>
+                <md-input-container>
+                    <input name="status" id="status" mdInput placeholder="Status" formControlName="status">
+                </md-input-container>
+                <md2-datepicker class="date-picker" format="dd/MM/y" openOnFocus="true" type="date" placeholder="Suspend Date" formControlName="suspendDate"></md2-datepicker>
+                <md2-datepicker class="date-picker" format="dd/MM/y" openOnFocus="true" type="date" placeholder="Hired Date" formControlName="hiredDate"></md2-datepicker>
+                <md-select placeholder="Grade" formControlName="grade">
+                    <md-option *ngFor="let grade of lookupLists.grades" [value]="grade.value">
+                        {{ grade.viewValue }}
+                    </md-option>
+                </md-select>
+                <md-select placeholder="Division" formControlName="division">
+                    <md-option *ngFor="let division of lookupLists.divisions" [value]="division.value">
+                        {{ division.viewValue }}
+                    </md-option>
+                </md-select>
+               
+                <md-input-container>
+                   <input name="email" id="email" mdInput type="email" placeholder="E-mail" formControlName="email">
+                </md-input-container>
+            </div>
+            
+            <div class="form-img">
+                <md-icon class="img-icon" (click)="fileInput.click()">camera_alt</md-icon>
+                <img class="img" [src]="empPict" (click)="fileInput.click()">
+            </div>
+            <input #fileInput type="file" hidden="hidden" (change)="onUpload($event)" accept="image/*"/>
+        </div>
+        <div class="form-btn">
+            <div class="btn">
+                <button md-raised-button (click)="onCancel()">CANCEL</button>
+                <button type="submit" md-raised-button color="accent" [disabled]="!form.valid">SAVE</button>
+            </div>
+        </div>
+    </form>
+</div>

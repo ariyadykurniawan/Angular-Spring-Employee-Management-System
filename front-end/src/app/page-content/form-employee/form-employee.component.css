@@ -1,0 +1,106 @@
+.form-input {
+    box-sizing: border-box;
+    width: auto;
+    top: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 5px 20px 0px 0px;
+    height: 500px;
+    overflow: auto;
+
+}
+
+.left-form {
+    top: 5px;
+    left: 20px;
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+}
+
+.right-form {
+    top: 5px;
+    left: 340px;
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+}
+
+.form-img {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.form-btn {
+    height: 46px;
+    left: 375px;
+    bottom: 0px;
+    background-color: #673AB7;
+}
+
+.btn {
+    float: right;
+    padding: 5px 20px 0px 0px;
+    height: 10px;
+    border-radius: 20%
+}
+
+md-select {
+    margin-top: 18px;
+    margin-bottom: 10px;
+    width: 300px !important;
+}
+
+.form-img {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.img {
+    float: left;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.img-icon {
+    float: left;
+    margin-top: 80px;
+    position: absolute;
+}
+
+md2-datepicker{
+    width: 300px !important;
+}
+
+input {
+  max-height: 18px;
+}
+
+md-input-container {
+  width: 300px;
+  margin-bottom: 5px;
+}
+
+.date-picker {
+    margin-bottom: 6px;
+}
+
+/deep/ .mdl-textfield .mdl-textfield__input {
+    font-size: 14px;    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/deep/ .date-picker .md2-datepicker-trigger .md2-datepicker-input .md2-datepicker-value {
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/deep/ .date-picker .md2-datepicker-trigger .md2-datepicker-input .md2-datepicker-arrow {
+    /*border-top: 5px solid transparent;*/
+    display:none;
+}

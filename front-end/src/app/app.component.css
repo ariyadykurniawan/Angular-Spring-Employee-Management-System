@@ -1,0 +1,36 @@
+.left {
+    position: absolute;
+    width: 375px;
+    height: auto;
+    top: 60px;   
+    left: 0px;
+    bottom: 0px;
+    border: solid rgba(0, 0, 0, 0.5);
+    border-width: 0px 1px 0px 0px;
+}
+
+.right {
+    min-width: 480px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 60px;
+    left: 375px;
+    right: 0px; /*delete this if no scroll bar*/
+    bottom: 0px;
+}
+
+.top-bar {
+    box-sizing: border-box;
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    top: 0px;   
+    left: 0px;
+    bottom: 0px;
+    padding: 1px 0px 0px 2px;
+    /*background-color: #673AB7;*/
+}
+.nav-bar-icon {
+    padding: 5px 0px 0px 0px;
+}

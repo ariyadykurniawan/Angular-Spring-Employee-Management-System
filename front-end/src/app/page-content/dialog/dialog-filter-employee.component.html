@@ -1,0 +1,25 @@
+<h1 md-dialog-title>Filter Employee</h1>
+    <div md-dialog-content>
+         <form [formGroup]="form">
+            <div class="form-input">
+                <div class="filter-gender">
+                    <md-select placeholder="Gender" formControlName="gender">
+                        <md-option *ngFor="let gender of lookupLists.genders" [value]="gender.value">
+                            {{ gender.viewValue }}
+                        </md-option>
+                    </md-select>
+                </div>
+                <div class="filter-office-location">
+                    <md-select placeholder="Office Location" formControlName="officeLocation">
+                        <md-option *ngFor="let  officeLocation of officeLocations" [value]="officeLocation.locationName">
+                            {{ officeLocation.locationName }}
+                        </md-option>
+                    </md-select>
+                </div>
+            </div>
+         </form>
+    </div>
+<div md-dialog-actions>
+  <button md-button (click)="dialogRef.close(form.value)">Yes</button>
+  <button md-button (click)="dialogRef.close()">Cancel</button>
+</div>

@@ -1,0 +1,20 @@
+package com.backend.controller;
+
+
+@RestController
+public class OfficeLocationController {
+	@Autowired
+	private LocationRepositroy locRepo;
+	
+	@GetMapping("/locations")
+	@ResponseBody
+	public Iterable<Location> getLocations(){
+		try {
+			return locRepo.findAll();
+		} catch (Exception e) {
+			System.err.println(e.getMessage());
+			throw new Exception();
+		}
+		
+	}
+}

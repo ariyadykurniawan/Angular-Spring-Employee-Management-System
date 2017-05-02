@@ -1,0 +1,447 @@
+2017-04-29 18:53:12,332 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-04-29 18:53:17,045 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BackEndRms:0.0.1-SNAPSHOT @ /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/pom.xml.
+2017-04-29 18:53:18,346 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 18:53:18,357 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 18:53:18,393 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 18:53:18,400 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 18:53:18,400 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 18:58:47,810 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 18:58:47,818 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 18:58:47,819 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 18:58:47,822 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 18:58:47,822 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 19:02:07,549 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-04-29 19:23:02,354 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 19:23:02,361 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 19:23:02,378 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 19:23:02,382 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 19:23:02,383 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 19:23:35,654 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 19:23:35,662 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 19:23:35,664 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 19:23:35,668 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 19:23:35,668 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 19:54:21,577 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 19:54:21,578 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 19:54:21,580 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 19:54:21,583 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 19:54:21,583 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 20:00:56,963 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:00:56,964 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 20:00:56,965 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 20:00:56,968 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:00:56,968 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 20:06:43,795 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:06:43,796 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 20:06:43,798 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 20:06:43,800 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:06:43,801 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 20:07:39,376 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:07:39,378 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 20:07:39,381 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 20:07:39,385 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:07:39,386 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 20:08:27,314 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:08:27,315 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 20:08:27,316 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 20:08:27,319 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:08:27,321 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 20:08:46,401 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:08:46,402 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 20:08:46,403 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 20:08:46,405 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:08:46,405 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 20:14:17,957 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:14:17,958 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 20:14:17,960 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 20:14:17,962 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:14:17,962 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 20:14:39,004 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:14:39,005 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 20:14:39,006 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 20:14:39,011 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:14:39,011 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-29 20:15:10,290 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:15:10,291 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-29 20:15:10,292 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-29 20:15:10,294 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-29 20:15:10,294 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:32:12,067 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:32:12,068 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:32:12,070 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:32:12,073 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:32:12,073 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:32:17,958 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:32:17,958 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:32:17,959 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:32:17,962 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:32:17,962 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:32:20,364 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:32:20,364 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:32:20,365 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:32:20,367 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:32:20,367 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:32:30,907 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:32:30,907 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:32:30,908 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:32:30,911 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:32:30,911 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:32:58,310 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:32:58,311 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:32:58,312 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:32:58,315 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:32:58,316 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:33:05,560 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:33:05,561 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:33:05,561 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:33:05,564 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:33:05,564 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:40:00,223 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:00,224 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:40:00,225 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:40:00,229 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:00,229 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:40:05,135 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:05,136 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:40:05,138 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:40:05,143 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:05,143 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:40:12,845 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:12,849 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:40:12,851 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:40:12,854 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:12,855 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:40:20,355 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:20,356 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:40:20,357 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:40:20,359 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:20,359 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:40:24,616 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:24,616 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:40:24,618 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:40:24,620 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:24,620 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:40:29,363 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:29,364 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:40:29,364 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:40:29,367 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:40:29,367 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:45:39,236 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:45:39,236 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:45:39,241 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:45:39,242 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:45:39,243 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:45:42,499 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:45:42,500 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:45:42,501 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:45:42,504 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:45:42,504 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:46:29,439 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:46:29,439 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:46:29,441 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:46:29,443 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:46:29,444 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:58:37,805 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:58:37,806 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:58:37,807 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:58:37,809 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:58:37,809 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:58:56,426 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:58:56,427 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:58:56,428 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:58:56,430 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:58:56,431 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 17:59:06,490 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:59:06,490 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 17:59:06,491 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 17:59:06,493 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 17:59:06,493 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:00:19,618 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:00:19,618 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:00:19,619 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:00:19,620 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:00:19,620 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:00:34,610 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:00:34,611 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:00:34,612 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:00:34,636 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:00:34,636 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:00:44,569 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:00:44,569 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:00:44,570 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:00:44,573 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:00:44,573 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:01:26,601 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:01:26,602 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:01:26,603 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:01:26,606 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:01:26,606 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:01:34,581 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:01:34,581 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:01:34,582 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:01:34,584 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:01:34,585 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:01:47,814 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:01:47,814 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:01:47,815 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:01:47,818 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:01:47,818 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:45:37,762 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:45:37,765 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:45:37,768 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:45:37,771 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:45:37,771 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:46:35,924 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:46:35,924 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:46:35,925 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:46:35,926 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:46:35,926 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:47:36,927 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:47:36,928 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:47:36,929 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:47:36,931 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:47:36,931 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:48:10,777 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:48:10,778 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:48:10,778 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:48:10,780 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:48:10,780 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:48:28,275 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:48:28,276 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:48:28,277 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:48:28,280 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:48:28,281 [Worker-313] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:48:32,819 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:48:32,819 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:48:32,820 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:48:32,822 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:48:32,822 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:50:10,932 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:50:10,933 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:50:10,935 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:50:10,938 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:50:10,938 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:50:16,001 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:50:16,002 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:50:16,003 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:50:16,007 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:50:16,007 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:50:50,630 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:50:50,631 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:50:50,632 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:50:50,633 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:50:50,633 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:51:50,275 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:51:50,275 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:51:50,276 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:51:50,277 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:51:50,277 [Worker-315] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:52:05,019 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:52:05,022 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:52:05,023 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:52:05,025 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:52:05,026 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:52:25,926 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:52:25,927 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:52:25,928 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:52:25,930 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:52:25,931 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:54:02,115 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:54:02,115 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:54:02,116 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:54:02,117 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:54:02,118 [Worker-312] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:55:15,102 [Worker-318] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:55:15,103 [Worker-318] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:55:15,104 [Worker-318] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:55:15,108 [Worker-318] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:55:15,108 [Worker-318] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:55:27,527 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:55:27,528 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:55:27,529 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:55:27,531 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:55:27,531 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:55:47,635 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:55:47,635 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:55:47,636 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:55:47,640 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:55:47,640 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:55:51,687 [Worker-320] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:55:51,687 [Worker-320] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:55:51,688 [Worker-320] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:55:51,689 [Worker-320] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:55:51,689 [Worker-320] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:55:52,816 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:55:52,817 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:55:52,818 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:55:52,819 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:55:52,819 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 18:56:14,804 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:56:14,805 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 18:56:14,806 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 18:56:14,808 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 18:56:14,808 [Worker-319] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 21:14:40,697 [Worker-364] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:14:40,700 [Worker-364] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 21:14:40,701 [Worker-364] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 21:14:40,703 [Worker-364] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:14:40,703 [Worker-364] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 21:15:35,612 [Worker-373] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:15:35,613 [Worker-373] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 21:15:35,614 [Worker-373] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 21:15:35,616 [Worker-373] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:15:35,616 [Worker-373] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 21:15:42,299 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:15:42,299 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 21:15:42,300 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 21:15:42,302 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:15:42,302 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 21:15:46,073 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:15:46,073 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 21:15:46,074 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 21:15:46,076 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:15:46,076 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 21:17:29,274 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:17:29,274 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 21:17:29,275 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 21:17:29,277 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:17:29,278 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 21:37:46,401 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:37:46,402 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 21:37:46,403 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 21:37:46,405 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:37:46,405 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 21:37:50,376 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:37:50,376 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 21:37:50,377 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 21:37:50,379 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:37:50,379 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 21:38:22,719 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:38:22,719 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 21:38:22,720 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 21:38:22,726 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 21:38:22,726 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 21:53:07,788 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-30 22:59:29,462 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 22:59:29,478 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 22:59:29,501 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 22:59:29,506 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 22:59:29,507 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 23:03:49,808 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:03:49,814 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 23:03:49,816 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 23:03:49,820 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:03:49,820 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 23:04:08,570 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:04:08,571 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 23:04:08,575 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 23:04:08,578 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:04:08,578 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 23:04:14,866 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:04:14,867 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 23:04:14,868 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 23:04:14,870 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:04:14,870 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 23:04:22,641 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:04:22,642 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 23:04:22,643 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 23:04:22,647 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:04:22,647 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 23:06:46,833 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:06:46,834 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 23:06:46,835 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 23:06:46,838 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:06:46,838 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-04-30 23:16:21,568 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:16:21,569 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 23:16:21,571 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 23:16:21,574 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 23:16:21,574 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 08:20:12,888 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-05-01 15:15:23,887 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-05-01 22:45:14,852 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:45:14,868 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:45:14,897 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:45:14,903 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:45:14,904 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:45:25,953 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:45:25,957 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:45:25,959 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:45:25,962 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:45:25,962 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:48:45,294 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:48:45,295 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:48:45,296 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:48:45,300 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:48:45,300 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:49:40,886 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:49:40,887 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:49:40,889 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:49:40,893 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:49:40,893 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:49:57,059 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:49:57,060 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:49:57,062 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:49:57,067 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:49:57,068 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:51:44,794 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:51:44,797 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:51:44,799 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:51:44,802 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:51:44,802 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:51:52,751 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:51:52,752 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:51:52,753 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:51:52,755 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:51:52,755 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:51:59,590 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:51:59,590 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:51:59,593 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:51:59,601 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:51:59,601 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:52:10,831 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:52:10,831 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:52:10,833 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:52:10,837 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:52:10,837 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:52:28,731 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:52:28,733 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:52:28,735 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:52:28,738 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:52:28,738 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:57:25,680 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:57:25,686 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:57:25,687 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:57:25,690 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:57:25,690 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:57:38,544 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:57:38,545 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:57:38,546 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:57:38,548 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:57:38,548 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 22:58:05,902 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:58:05,903 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:58:05,904 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:58:05,907 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:58:05,907 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-01 23:02:52,124 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-01 23:03:19,946 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:03:19,951 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:03:19,969 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:03:19,973 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:03:19,974 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariyady/Documents/MITRAIS/BTPN-Mitrais-Final-Project-master/back-end/src/test/resources
+2017-05-02 08:38:43,800 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 08:38:43,829 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-02 08:38:43,861 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-02 08:38:43,867 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 08:38:43,867 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee\Desktop\BTPN-Mitrais-Final-Project-master\back-end\src\test\resources
+2017-05-02 08:39:00,414 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 08:39:00,416 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-02 08:39:00,417 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-02 08:39:00,421 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 08:39:00,421 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee\Desktop\BTPN-Mitrais-Final-Project-master\back-end\src\test\resources
+2017-05-02 14:43:59,040 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:43:59,061 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-02 14:43:59,081 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-02 14:43:59,086 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:43:59,086 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee\Desktop\BTPN-Mitrais-Final-Project-master\back-end\src\test\resources

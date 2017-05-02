@@ -1,0 +1,6 @@
+<h1 md-dialog-title>Warning</h1>
+<div md-dialog-content>Continue Delete {{ firstName}} {{ lastName }}?</div>
+<div md-dialog-actions>
+  <button md-button md-raised-button color="warn" (click)="dialogRef.close('delete')">Yes</button>
+  <button md-button (click)="dialogRef.close()">Cancel</button>
+</div>

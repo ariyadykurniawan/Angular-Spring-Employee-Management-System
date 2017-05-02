@@ -1,0 +1,12 @@
+.filter-gender{
+    float: left;
+    padding: 25px 18px;
+}
+
+.filter-office-location{
+    float:left;
+    padding: 25px 18px;
+}
+/deep/ .mat-select{
+    width:150px !important;
+}

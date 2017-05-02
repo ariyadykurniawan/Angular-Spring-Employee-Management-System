@@ -1,0 +1,48 @@
+package com.backend.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="office_location")
+public class OfficeLocation {
+	
+	@Id
+    @Column(name="office_location_id")
+    @GeneratedValue(strategy= GenerationType.AUTO)
+    private long officeLocationId;
+    @Column(name="location_name", nullable = false)
+    private String locationName;
+    
+	public OfficeLocation(){
+		
+	}
+	
+	public OfficeLocation(long locationId, String locationName){
+		this.locationId = locationId;
+		this.locationName = locationName;
+	}
+
+	public long getLocationId() {
+		return locationId;
+	}
+
+	public void setLocationId(long locationId) {
+		this.locationId = locationId;
+	}
+
+	public String getLocationName() {
+		return locationName;
+	}
+
+	public void setLocationName(String locationName) {
+		this.locationName = locationName;
+	}
+	
+	
+
+}

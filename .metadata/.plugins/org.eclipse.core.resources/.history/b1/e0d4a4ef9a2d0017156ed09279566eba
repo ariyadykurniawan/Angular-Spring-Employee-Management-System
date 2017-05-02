@@ -1,0 +1,132 @@
+package com.backend.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseStatus;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.util.UriComponentsBuilder;
+
+import com.backend.model.Employee;
+import com.backend.model.OfficeLocation;
+import com.backend.repository.EmployeeRepository;
+import com.backend.repository.OfficeLocationRepository;
+import com.backend.service.EmployeeService;
+
+@RestController
+public class RestApiController {
+	
+	@Autowired
+    EmployeeService employeeService;
+	
+	@Autowired
+    private EmployeeRepository employeeRepository;
+	
+	@Autowired
+	private OfficeLocationRepository officeLocationRepository;
+
+	
+	@GetMapping("/employees")
+	@ResponseStatus(HttpStatus.OK)
+	public Iterable<Employee> allEmployees() {
+		return employeeRepository.findAll();
+	}
+	
+	@GetMapping("/employees/{id}")
+	@ResponseStatus(HttpStatus.OK)
+	public Iterable<Employee> oneEmployee(@PathVariable("id") long id) {
+		return employeeRepository.findByDivision();
+	}
+    
+    //get one employee by id
+    @RequestMapping(value = "/employees/{id}", method = RequestMethod.GET)
+    public ResponseEntity<?> getUser(@PathVariable("id") long id) {
+        Employee employee = employeeService.findById(id);
+        return new ResponseEntity<Employee>(employee, HttpStatus.OK);
+    }
+    
+    /**/
+    
+    //create employee
+//    @RequestMapping(value = "/employees/{office_location_id}", method = RequestMethod.POST)
+//    public ResponseEntity<?> createEmployee(@RequestBody Employee employee, @PathVariable("office_location_id") Long office_location_id){
+//    	OfficeLocation officeLocation = officeLocationRepository.findOne(office_location_id);
+//		employee.setOfficeLocation(officeLocation);
+//    	employeeService.saveEmployee(employee);
+//	   return new ResponseEntity<Employee>(employee, HttpStatus.CREATED); 
+//    }
+    
+//    @RequestMapping(value = "/employees", method = RequestMethod.POST)
+//    public ResponseEntity<?> createEmployee(@RequestBody Employee employee){
+//    	employeeService.saveEmployee(employee);
+//	   return new ResponseEntity<Employee>(employee, HttpStatus.CREATED); 
+//    }
+    
+	@PostMapping("/employees/")
+	@ResponseStatus(HttpStatus.CREATED)
+	public Employee saveEmployee(@RequestBody Employee emp){
+		return employeeRepository.save(emp);
+	}
+    
+    //update user by id
+    @RequestMapping(value = "/employees/{id}/{office_location_id}", method = RequestMethod.PUT)
+    public ResponseEntity<Employee> updateEmployee(@PathVariable("id") long id, @RequestBody Employee employee, @PathVariable("office_location_id") Long office_location_id){
+    	
+    	Employee currEmployee = employeeService.findById(id);
+    	
+    		currEmployee.setFirstName(employee.getFirstName());
+    		
+	    	currEmployee.setLastName(employee.getLastName());
+	    	
+	    	currEmployee.setGender(employee.getGender());
+	    	
+	    	currEmployee.setDob(employee.getDob());
+	    	
+	    	currEmployee.setNationality(employee.getNationality());
+	    	
+	    	currEmployee.setMaritalStatus(employee.getMaritalStatus());
+	    	
+	    	currEmployee.setPhoneNumber(employee.getPhoneNumber());
+	    	
+	    	currEmployee.setSubDivision(employee.getSubDivision());
+	    	
+	    	currEmployee.setStatus(employee.getStatus());
+	    	
+	    	currEmployee.setSuspendDate(employee.getSuspendDate());
+	    	
+	    	currEmployee.setHiredDate(employee.getHiredDate());
+	    	
+	    	currEmployee.setGrade(employee.getGrade());
+	    	
+	    	currEmployee.setDivision(employee.getDivision());
+	    	
+	    	currEmployee.setEmail(employee.getEmail());
+	    	
+	    	currEmployee.setEmpPict(employee.getEmpPict());
+	    	
+	    	currEmployee.setOfficeLocation(employee.getOfficeLocation());
+	    	
+	    	OfficeLocation officeLocation = officeLocationRepository.findOne(office_location_id);
+	    	currEmployee.setOfficeLocation(officeLocation);
+	    	
+	    	employeeService.updateEmployee(currEmployee);
+ 
+    	return new ResponseEntity<Employee>(currEmployee, HttpStatus.OK);
+    }
+    
+    //delete user by id
+    @RequestMapping(value="/employees/{id}", method = RequestMethod.DELETE)
+    public ResponseEntity<?> deleteUser(@PathVariable("id") long id){
+		employeeService.deleteEmployeeById(id);
+    	return new ResponseEntity<Employee>(HttpStatus.NO_CONTENT);
+    }
+}

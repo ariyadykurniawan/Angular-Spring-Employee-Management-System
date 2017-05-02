@@ -1,0 +1,48 @@
+<div class="top-bar-div">
+    <div class="search-icon">
+        <i class="material-icons md-36">search</i>
+    </div>
+    <md-input-container>
+        <input mdInput #searchBox (keyup)="onSearch($event, searchBox.value)" placeholder="Search" value="">
+    </md-input-container>
+    <div class="right-search-menu">
+        <button *ngIf="selectedEmployee" (click)="openDialogDelete('dialog-delete-employee')" md-icon-button><i class="material-icons">delete</i></button>
+        <button (click)="onSort()" md-icon-button><i class="material-icons">sort_by_alpha</i></button>
+        <button md-icon-button (click)="openDialogFilter('dialog-delete-employee')"><i class="material-icons md-36">filter_list</i></button>
+        <div class="search-chip">
+            <span class="mdl-chip">
+                <span class="mdl-chip__text">{{ employees == null? 0:employees.length }}</span>
+            </span>
+        </div>
+
+    </div>
+</div>
+<div class="scroll-bar-div">
+        <div *ngIf="employees">
+            <div class="emp-card" *ngFor="let employee of employees"
+            (click)="onSelect(employee)"  [class.emp-card-selected]="employee == selectedEmployee">
+                <img class="emp-img" [src]="employee.empPict == null ? 'assets/images/user.png' :employee.empPict">
+                <div class="card-left">
+                    <a class="emp-name">{{ employee.firstName }} {{ employee.lastName }}</a><br>
+                    <a class="emp-info">{{ employee.grade }}, {{ employee.division }}<br>
+                                        {{ employee.officeLocation.locationName }}, {{ employee.phoneNumber }}</a>
+                </div>
+                <div class="card-right">
+                    <a class="emp-info">{{ employee.hiredDate | date : format : timezone}}</a><br>
+                    <div class="card-right-icon">
+                        <i class="material-icons">radio_button_checked</i>
+                        <i class="material-icons">chevron_right</i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div *ngIf="employees == ''">
+            <div class="emp-card" >
+                <div class="card-left">
+                    <a class="emp-name">We couldn't found what are you looking for</a><br>
+                </div>
+            </div>
+        </div>
+</div>
+<!--<button md-mini-fab class="floating-button" (click)="addEmployee()"><i class="material-icons">add</i></button>-->
+<a routerLink="/employee/add" (click)="addEmployee()"><button md-mini-fab class="floating-button" ><i class="material-icons">add</i></button></a>
