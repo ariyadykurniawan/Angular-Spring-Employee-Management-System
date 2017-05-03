@@ -9,6 +9,6 @@ To use this program :
   - npm install
   - npm start
   
-  use firefox and google chrome for better UI
+  use firefox and google chrome for better UI Display
   
   Thank You
