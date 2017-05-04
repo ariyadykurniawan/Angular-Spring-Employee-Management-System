@@ -2,15 +2,31 @@
     <div md-dialog-content>
          <form [formGroup]="form">
             <div class="form-input">
-                <div class="filter-gender">
+                <div class="filter">
                     <md-select placeholder="Gender" formControlName="gender">
+                        <md-option value="all">
+                            All
+                        </md-option>
                         <md-option *ngFor="let gender of lookupLists.genders" [value]="gender.value">
                             {{ gender.viewValue }}
                         </md-option>
                     </md-select>
                 </div>
-                <div class="filter-office-location">
+                <!--<div class="filter">
+                    <md-select placeholder="Division" formControlName="division">
+                        <md-option value="all">
+                            All
+                        </md-option>
+                        <md-option *ngFor="let division of lookupLists.divisions" [value]="division.value">
+                            {{ division.viewValue }}
+                        </md-option>
+                    </md-select>
+                </div>-->
+                <div class="filter">
                     <md-select placeholder="Office Location" formControlName="officeLocation">
+                        <md-option value="all">
+                            All
+                        </md-option>
                         <md-option *ngFor="let  officeLocation of officeLocations" [value]="officeLocation.locationName">
                             {{ officeLocation.locationName }}
                         </md-option>

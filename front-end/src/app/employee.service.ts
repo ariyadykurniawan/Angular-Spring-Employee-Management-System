@@ -6,6 +6,7 @@ import 'rxjs/add/operator/toPromise';
 import { Employee } from './employee.model';
 import { Observable } from 'rxjs/Observable';
 import { Subscription } from 'rxjs/Subscription';
+import { OfficeLocation } from './office-location.model';
 
 @Injectable()
 export class EmployeeService {
@@ -17,6 +18,19 @@ export class EmployeeService {
         return this.http.get(this.employeesUrl)
                         .map(response => response.json() as Employee[]);
     }
+
+    // getEmployeesByGender(gender: string): Observable<Employee[]>{
+    //     let url = `${this.employeesUrl}/gender/${gender}`;
+    //     return this.http.get(url)
+    //                     .map(response => response.json() as Employee[]);
+    // }
+
+    // getEmployeesByLocation(officeLocation: OfficeLocation){
+    //     let url = `${this.employeesUrl}/location/${officeLocation}`;
+    //     return this.http.get(url)
+    //                     .map(response => response.json() as Employee[])
+
+    // }   
 
     getEmployee(empId: number): Observable<Employee>{
         const url = `${this.employeesUrl}/${empId}`;

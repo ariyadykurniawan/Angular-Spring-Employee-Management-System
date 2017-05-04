@@ -1,28 +1,34 @@
 package com.backend.repository;
 
 import java.util.List;
+
+import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RestResource;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.backend.model.Employee;
+import com.backend.model.OfficeLocation;
 
 @RestResource
 public interface EmployeeRepository 
 	extends PagingAndSortingRepository<Employee, Long>
 	{
-		public List <Employee> findByLastNameIgnoreCase(@Param ("last_name") String lastName);
+		public Iterable <Employee> findByLastNameIgnoreCase(@Param ("last_name") String lastName);
 		
-		public List <Employee> findByGender(@Param ("gender") String gender);
+		public Iterable <Employee> findByGender(@Param ("gender") String gender);
 		
-		public List <Employee> findByDivision (@Param ("division") String division);
+		public Iterable <Employee> findByDivision (@Param ("division") String division);
 		
-		public List <Employee> findByStatus (@Param ("status") String status);
+		public Iterable <Employee> findByStatus (@Param ("status") String status);
 		
-		public List <Employee> findByGrade (@Param ("grade") String grade);
+		public Iterable <Employee> findByGrade (@Param ("grade") String grade);
 		
-		public List <Employee> findByOfficeLocation (@Param ("office_location") String officeLocation);
+//		@Query("select e from Employee e where e.office_location.id=:office_location")
+//		public Iterable <Employee> findByOfficeLocation (@Param ("office_location") String office_location);
+		
+		public Iterable <Employee> findByOfficeLocationAndGender (@Param ("office_location") OfficeLocation officeLocation, @Param ("gender") String gender);
 		
 		@Transactional
 		public Long deleteByEmpId(long empId);

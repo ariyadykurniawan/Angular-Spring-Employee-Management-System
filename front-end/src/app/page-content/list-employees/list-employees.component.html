@@ -6,9 +6,11 @@
         <input mdInput #searchBox (keyup)="onSearch($event, searchBox.value)" placeholder="Search" value="">
     </md-input-container>
     <div class="right-search-menu">
-        <button *ngIf="selectedEmployee" (click)="openDialogDelete('dialog-delete-employee')" md-icon-button><i class="material-icons">delete</i></button>
-        <button (click)="onSort()" md-icon-button><i class="material-icons">sort_by_alpha</i></button>
-        <button md-icon-button (click)="openDialogFilter('dialog-delete-employee')"><i class="material-icons md-36">filter_list</i></button>
+        <button *ngIf="selectedEmployee" mdTooltip="Delete" (click)="openDialogDelete('dialog-delete-employee')" md-icon-button>
+            <i class="material-icons">delete</i>
+        </button>
+        <button (click)="onSort()" mdTooltip="Sort Employee"  md-icon-button><i class="material-icons">sort_by_alpha</i></button>
+        <button md-icon-button mdTooltip="Filter Employee" (click)="openDialogFilter('dialog-delete-employee')"><i class="material-icons md-36">filter_list</i></button>
         <div class="search-chip">
             <span class="mdl-chip">
                 <span class="mdl-chip__text">{{ employees == null? 0:employees.length }}</span>
@@ -45,4 +47,4 @@
         </div>
 </div>
 <!--<button md-mini-fab class="floating-button" (click)="addEmployee()"><i class="material-icons">add</i></button>-->
-<a routerLink="/employee/add" (click)="addEmployee()"><button md-mini-fab class="floating-button" ><i class="material-icons">add</i></button></a>
+<a mdTooltip="Add new employee" mdTooltipPosition="before"  routerLink="/employee/add" (click)="addEmployee()"><button md-mini-fab class="floating-button" ><i class="material-icons">add</i></button></a>
