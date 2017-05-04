@@ -28,7 +28,7 @@ public interface EmployeeRepository
 //		@Query("select e from Employee e where e.office_location.id=:office_location")
 //		public Iterable <Employee> findByOfficeLocation (@Param ("office_location") String office_location);
 		
-		//public Iterable <Employee> findByOfficeLocationAndGender (@Param ("office_location") OfficeLocation officeLocation, @Param ("gender") String gender);
+		public Iterable <Employee> findByOfficeLocationAndGender (@Param ("office_location") OfficeLocation officeLocation, @Param ("gender") String gender);
 		
 		@Transactional
 		public Long deleteByEmpId(long empId);

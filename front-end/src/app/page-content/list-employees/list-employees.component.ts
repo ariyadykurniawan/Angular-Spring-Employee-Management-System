@@ -40,7 +40,6 @@ export class ListEmployeesComponent implements OnInit{
 
     ngOnInit(): void {
         this.getEmployees();
-         console.log(this.employees);
         this.subscription = this.sharedService.notifyObservable$.subscribe((res) => {
             if (res.hasOwnProperty('option') && res.option === 'refresh') {
                 this.getEmployees();
@@ -129,22 +128,21 @@ export class ListEmployeesComponent implements OnInit{
     }
 
     onFilter(filter: any){
-        console.log(filter);
+        
         if(filter){
             if(filter.gender == "all" && filter.officeLocation == "all"){
                 this.getEmployees();
-            }else if(filter.gender != "all" && filter.officeLocation == "all") {
+            }else if((filter.gender != "all") && (filter.officeLocation == "all")) {
                 this.employeeService
                     .getEmployees().subscribe(employees => {
                         this.employees = employees
                         if(this.employees != null){
                             this.employees = Object.assign([], this.employees).filter(
-                                employee => employee.gender.toLowerCase().indexOf(filter.gender.toLowerCase()) > -1
+                                employee => employee.gender.indexOf(filter.gender) > -1
                             );
                         }
                     });
-            }else if(filter.gender == "all" && filter.officeLocation != "all"){
-                // this.getEmployeesByLocation(filter.officeLocation);
+            }else if((filter.gender == "all") && (filter.officeLocation != "all")){
                 this.employeeService
                     .getEmployees().subscribe(employees => {
                         this.employees = employees
@@ -154,17 +152,18 @@ export class ListEmployeesComponent implements OnInit{
                             );
                         }
                     });
-            }else if(filter.gender != "all" && filter.officeLocation != "all"){
+            }else if((filter.gender != "all") && (filter.officeLocation != "all")){
                 this.employeeService
                     .getEmployees().subscribe(employees => {
-                        this.employees = employees
+                        this.employees = employees  
                         if(this.employees != null){
                             this.employees = Object.assign([], this.employees).filter(
-                                employee => employee.gender.toLowerCase().indexOf(filter.gender.toLowerCase()) > -1 &&
+                                employee => employee.gender.indexOf(filter.gender) > -1 &&
                                 employee.officeLocation.locationName.toLowerCase().indexOf(filter.officeLocation.toLowerCase()) > -1
                             );
-                        }
+                        }                        
                     });
+                
             }
         }
     }
@@ -201,9 +200,8 @@ export class DialogFilterEmployee {
         });
 
         this.form = this.formBuilder.group({
-            gender: this.formBuilder.control('all'),
-            officeLocation: this.formBuilder.control('all'),
-            division: this.formBuilder.control('all'),
+            gender: this.formBuilder.control('Male'),
+            officeLocation: this.formBuilder.control('Jakarta')
         });
     }
 }
