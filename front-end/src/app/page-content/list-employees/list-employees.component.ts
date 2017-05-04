@@ -200,8 +200,8 @@ export class DialogFilterEmployee {
         });
 
         this.form = this.formBuilder.group({
-            gender: this.formBuilder.control('Male'),
-            officeLocation: this.formBuilder.control('Jakarta')
+            gender: this.formBuilder.control('all'),
+            officeLocation: this.formBuilder.control('all')
         });
     }
 }
