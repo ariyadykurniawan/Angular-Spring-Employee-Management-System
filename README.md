@@ -1,4 +1,7 @@
-# MITRAIS-BTPN-FINAL_PROJECT
+# Employee Management System
+
+front end : Angular
+back end  : Java Spring
 
 To use this program :
 1. Database :
